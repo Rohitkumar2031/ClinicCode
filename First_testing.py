@@ -10,7 +10,7 @@ st.set_page_config(page_title="OM VARDHAN CLINIC")
 st.title("OM Vardhan Clinic")
 
 # Doctor Image
-image = Image.open("UEAKE7999.JPG")  # Replace "doctor_image.jpg" with your image file
+image = Image.open("dr.jpeg")  # Replace "doctor_image.jpg" with your image file
 st.image(image, caption="Dr. Santosh Kumari", use_column_width=True)
 
 # Doctor Details
